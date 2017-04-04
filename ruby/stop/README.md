@@ -67,4 +67,4 @@ However, if you don't understand the answer, the next step is to look up what th
 ---
 [Back to Previous Page](..)
 
-[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)
+[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master)
