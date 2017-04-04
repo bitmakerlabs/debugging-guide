@@ -17,4 +17,4 @@ Use the following techniques to try to solve the issue:
 - try to reproduce what you're doing in the simplest way possible, and then get it working in that way first
 
 ---
-[Back to Start](/bitmakerlabs/debugging-guide/blob/master/README.md)
+[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)

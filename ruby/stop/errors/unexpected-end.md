@@ -79,4 +79,4 @@ if name
 on line 17. This is because this is this specific `if` statement that is missing the `end`.
 
 ---
-[Back to Start](/bitmakerlabs/debugging-guide/blob/master/README.md)
+[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)

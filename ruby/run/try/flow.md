@@ -159,4 +159,4 @@ puts 'Fin!'
 We output the string `'Fin'` to the terminal.
 
 ---
-[Back to Start](/bitmakerlabs/debugging-guide/blob/master/README.md)
+[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)
