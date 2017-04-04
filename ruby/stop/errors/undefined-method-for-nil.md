@@ -1,8 +1,8 @@
-## undefined method `my\_method\_name' for nil:NilClass (NoMethodError)
+# undefined method `my\_method\_name' for nil:NilClass (NoMethodError)
 
 This error means that you're calling a method on an object that has not been defined properly.
 
-### Example #1: undefined method `my\_method\_name'
+## Example #1: undefined method `my\_method\_name'
 
 Here we're searching for a contact by an id number that does not exist:
 
@@ -42,7 +42,7 @@ else
 end
 ```
 
-### Example #2: undefined method `-'
+## Example #2: undefined method `-'
 
 Here we're trying to determine someones age by the current year and the year they were born:
 

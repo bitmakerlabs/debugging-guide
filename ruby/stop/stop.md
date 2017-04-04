@@ -44,22 +44,22 @@ Put the error into google, and try to remove any context specific information fr
 For example, if I had the error:
 
 ```bash
-my_simple_class.rb:5:in `<class:MySimpleClass>': 
-undefined local variable or method `baby_cakes' 
+my_simple_class.rb:5:in `<class:MySimpleClass>':
+undefined local variable or method `baby_cakes'
 for MySimpleClass:Class (NameError)
 from my_simple_class.rb:3:in `<main>'
 ```
 
-I would remove my filename (`my_simple_class.rb`), line number (`5`), class name (`MySimpleClass`), my method (`babycakes`). 
+I would remove my filename (`my_simple_class.rb`), line number (`5`), class name (`MySimpleClass`), my method (`babycakes`).
 
 Thus I would be left with:
 
-`undefined local variable or method NameError` 
+`undefined local variable or method NameError`
 
 and I'd google just that.
 
 It would likely lead me to a stackoverflow post. Skip to the **Question** part of the stackoverflow post and go directly to the answers. Look at the number one and number two answers (as occassionally the number one is marked correct, even though the number two answer is better).
 
-If you understand the answer completely and you fix the your issue, then great, time to move on to your next bug!  
+If you understand the answer completely and you fix the your issue, then great, time to move on to your next bug!
 
 However, if you don't understand the answer, the next step is to look up what the answer is saying in the ruby documentation and try to understand the methods there.

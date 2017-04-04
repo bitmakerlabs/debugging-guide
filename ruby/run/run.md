@@ -4,7 +4,7 @@ Keep in mind that a program is a series of steps that continually transforms sta
 
 Use the following techniques to try to solve the issue:
 
-- [follow the flow of your program's execution]()
+- [follow the flow of your program's execution](try/flow.md)
 - think about the scope of any variables you're working with (local, instance, class, global)
 - think about methods you are calling, and what (if any), arguments you're providing those methods
 - think about the results methods are returning

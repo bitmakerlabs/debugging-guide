@@ -1,20 +1,20 @@
-## syntax error, unexpected end-of-input, expecting keyword_end
+# syntax error, unexpected end-of-input, expecting keyword_end
 
 This means that a syntax block was started, but never ended. The most common situtations are when we define a **class** or **method** or use a  **control expression** (`if`, `switch`, loop, `do` block).
 
-### Step 1: Fix Indenting
+## Step 1: Fix Indenting
 
 To fix this, first fix your indenting. This will usually make it obvious where the `end` is missing. You can see where your indenting is off by using the warning flag when running your ruby program: `e.g. ruby -w my_program.rb`.
 
-### Step 2: Decipher the warning
+## Step 2: Decipher the warning
 
 Look at the line numbers the warnings point to. From these, you may be able to figure out where your end is missing. If not, go to the next step.
 
-### Step 3: Isolate Code Causing Error
+## Step 3: Isolate Code Causing Error
 
 If you're not able to figure out where the issue is due to the warnings, try commentings out chunks of code and seeing if you can get your program run. Then uncomment and run your code chunk by chunk until the error returns. Using this method you'll be able to isolate where your `end` is missing.
 
-### Example
+## Example
 
 ```ruby
 # my_simple_class.rb
