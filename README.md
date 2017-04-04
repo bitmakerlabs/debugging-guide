@@ -5,7 +5,7 @@ Ah, so you've got yourself a bug, issue, or general problem on your hands. Well,
 ### What kind of issue do you have?
 
 - CSS / HTML (coming soon)
-- [Ruby](ruby/ruby.md)
+- [Ruby](ruby)
 - Rails (coming soon)
 - JavaScript (coming soon)
 - Git (coming soon)
