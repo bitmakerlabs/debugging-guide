@@ -17,4 +17,5 @@ Use the following techniques to try to solve the issue:
 - try to reproduce what you're doing in the simplest way possible, and then get it working in that way first
 
 ---
+[Back to Previous Page](..)
 [Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)
