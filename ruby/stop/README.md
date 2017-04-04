@@ -65,4 +65,6 @@ If you understand the answer completely and you fix the your issue, then great, 
 However, if you don't understand the answer, the next step is to look up what the answer is saying in the ruby documentation and try to understand the methods there.
 
 ---
+[Back to Previous Page](..)
+
 [Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)

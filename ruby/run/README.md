@@ -18,4 +18,5 @@ Use the following techniques to try to solve the issue:
 
 ---
 [Back to Previous Page](..)
+
 [Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)

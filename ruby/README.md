@@ -9,4 +9,6 @@ or
 #### [Run, but not with the expected result?](run/run.md)
 
 ---
+[Back to Previous Page](..)
+
 [Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)
