@@ -63,3 +63,6 @@ It would likely lead me to a stackoverflow post. Skip to the **Question** part o
 If you understand the answer completely and you fix the your issue, then great, time to move on to your next bug!
 
 However, if you don't understand the answer, the next step is to look up what the answer is saying in the ruby documentation and try to understand the methods there.
+
+---
+[Back to Start](/bitmakerlabs/debugging-guide/blob/master/README.md)

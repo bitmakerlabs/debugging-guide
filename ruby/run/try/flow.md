@@ -2,8 +2,8 @@
 
 Follow the flow of your program. Think about:
 
-- What happens first? 
-- What happens when a method is called? 
+- What happens first?
+- What happens when a method is called?
 - When the method is finished?
 - What variables are being set?
 - What variables are changing in value?
@@ -29,9 +29,9 @@ class MySimpleClass
     else
       puts "Come on, ya gotta tell me yer name!"
     end
-    
+
   end
-   
+
 end
 
 greeter = MySimpleClass.new
@@ -78,7 +78,7 @@ This defines a method called `hello` that accepts one argument. We won't go into
 
 This defines a method called `count_to_ten` that accepts no arguments. This method had not yet been executed.
 
-```ruby  
+```ruby
 end
 ```
 This ends the setting up of the class. Note that no code has actually executed yet -- it's only been setup in memory for us to use.
@@ -114,14 +114,14 @@ This calls the `hello` instance method, passing a string `'Sean'` as an argument
 ```
 
 Now we're at the beginning of this method. We're setting up a local variable called `name` to be used just within this method. `name` is going to be set to whatever arugment was passed in (`'Sean'` in our case), but if no argument was passed in, we would have still setup the `name` local variable, but just set it to `nil`.
-  
-```ruby  
+
+```ruby
     if name
 ```
 
 Here we're checking to see `if name` is evaluating to `true`. Controls expressions like `if`, `unless`, `while` always evalute to true or false, and then based on that decide the next step in the flow. In ruby, only `false` and `nil` evaluate to `false`. Everything else evaluates to `true`, include strings, intergers, the number `0`, and empty strings (`""`).
-   
-```ruby        
+
+```ruby
       puts "Hello #{name}"
 ```
 We output **Hello** and a single space to the terminal. Note that we're still inside the double quotes, so we're still inside a string at the moment.
@@ -138,7 +138,7 @@ Hello Sean
 
 Then...
 
-```ruby      
+```ruby
     else
       puts "Come on, ya gotta tell me yer name!"
     end
@@ -157,3 +157,6 @@ puts 'Fin!'
 ```
 
 We output the string `'Fin'` to the terminal.
+
+---
+[Back to Start](/bitmakerlabs/debugging-guide/blob/master/README.md)
