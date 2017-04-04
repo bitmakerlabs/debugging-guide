@@ -32,9 +32,9 @@ This message is telling you:
 
 Now that you know where the error is happening, let's look at common error messages:
 
-- [syntax error, unexpected end-of-input, expecting keyword_end]()
-- [undefined local variable or method (NameError)]()
-- [undefined method `my\_method\_name' for nil:NilClass (NoMethodError)]()
+- [syntax error, unexpected end-of-input, expecting keyword_end](errors/unexpected-end.md)
+- [undefined local variable or method (NameError)](errors/undefined-var-or-method.md)
+- [undefined method `my\_method\_name' for nil:NilClass (NoMethodError)](errors/undefined-method-for-nil.md)
 
 
 ### Step 3. Google the error

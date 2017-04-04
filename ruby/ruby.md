@@ -1,6 +1,4 @@
-# Troubleshooting Ruby Issues
-
-[Back to Table of Contents](../README.md)
+# Ruby Issue
 
 ### Does your program:
 
@@ -10,3 +8,5 @@ or
 
 #### [Run, but not with the expected result?](run/run.md)
 
+---
+[Back to Start](https://github.com/bitmakerlabs/debugging-guide/blob/master/README.md)
