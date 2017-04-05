@@ -7,7 +7,7 @@ Let's get started ...
 ## _What kind of issue do you have?_
 
 ### CSS / HTML (coming soon)
-### [Ruby](/bitmakerlabs/debugging-guide/wiki/Ruby-Issues)
+### [Ruby](https://github.com/bitmakerlabs/debugging-guide/wiki)
 ### Rails (coming soon)
 ### JavaScript (coming soon)
 ### Git (coming soon)
