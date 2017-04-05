@@ -11,3 +11,7 @@ Let's get started ...
 ### Rails (coming soon)
 ### JavaScript (coming soon)
 ### Git (coming soon)
+
+---
+
+_This is a living document. If you have anything to add, change or remove, please [let us know](mailto:sean@bitmaker.co). Or better yet, if you have write access, make the change yourself._
