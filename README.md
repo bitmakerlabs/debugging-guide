@@ -14,4 +14,4 @@ Let's get started ...
 
 ---
 
-_This is a living document. If you have anything to add, change or remove, please [let us know](mailto:sean@bitmaker.co). Or better yet, if you have write access, make the change yourself._
+_This is a living document. If you have anything to add, change or remove, please [let us know](mailto:sean@bitmaker.co). Or better yet, as the main content is on the [wiki](https://github.com/bitmakerlabs/debugging-guide/wiki), make the change yourself!_
