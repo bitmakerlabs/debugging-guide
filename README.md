@@ -6,6 +6,7 @@ Let's get started ...
 
 ## _What kind of issue do you have?_
 
+### [Reading error messages (Ruby)](https://github.com/bitmakerlabs/error-messages)
 ### CSS / HTML (coming soon)
 ### [Ruby](https://github.com/bitmakerlabs/debugging-guide/wiki/Ruby-Issues)
 ### Rails (coming soon)
