@@ -8,7 +8,7 @@ Let's get started ...
 
 ### CSS / HTML (coming soon)
 ### [Ruby](https://github.com/bitmakerlabs/debugging-guide/wiki/Ruby-Issues)
-### Rails (coming soon)
+### [Rails](https://github.com/bitmakerlabs/debugging-guide/wiki/Rails-Issues)
 ### JavaScript (coming soon)
 ### Git (coming soon)
 
