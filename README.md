@@ -1,4 +1,4 @@
-# The Step-by-Step Bitmaker Guide To Fixing Bugs
+# Bitmaker Guide To Fixing Bugs
 
 Ah, so you've got yourself a bug, issue, or general problem on your hands. Well, you've come to the right place. We're here to help navigate you to the fix.
 
